@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>GetMap</members>
+		<members>InsertMessage</members>
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>Budget__c</members>
+		<members>Character__c</members>
+		<members>DieCount__c</members>
+		<members>Emoji__c</members>
+		<members>Expense__c</members>
+		<members>GuildId__c</members>
+		<members>Income__c</members>
+		<members>Message__c</members>
+		<members>Prefix__c</members>
+		<members>Suffix__c</members>
+		<name>CustomObject</name>
+	</types>
+	<version>53.0</version>
+</Package>
